@@ -81,10 +81,10 @@ public:
   template <typename t> t read_from_file(int mode, int line) {
     t ret;
     switch (mode) {
-    case 1:
+    case 0:
       ret = readline<typeof(t)>(line);
       break;
-    case 2:
+    case 1:
       ret = readword<typeof(t)>(line);
       break;
     default:
