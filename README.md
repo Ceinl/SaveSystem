@@ -19,7 +19,7 @@ string_to_file: Writes a string value to the file.
 # Read variable from file
 
 read_from_file: Reads data from the file in two modes, either by line or by word.
-read_from_file\<variable name\>>
+read_from_file\<variable name\> <asdsad>
 
 find_in_file: Searches for a specific word in the file and returns the corresponding value.
 
