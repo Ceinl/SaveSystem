@@ -78,7 +78,7 @@ public:
     writeToFile();
   };
   //*************************************************
-  template <typename t> t readfromfile(int mode, int line) {
+  template <typename t> t read_from_file(int mode, int line) {
     t ret;
     switch (mode) {
     case 1:
