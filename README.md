@@ -1,6 +1,8 @@
 # SaveSystem
 
-full functional c++ header file for writing to files and reading from them
+part not working
+
+full functional c++ libriaryfor writing to files and reading from them
 
 This is a C++ class named \_saveSystem that provides methods to write, read, search and clear data in a file. It includes the following methods:
 
