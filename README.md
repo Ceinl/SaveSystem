@@ -1,6 +1,6 @@
 # SaveSystem
 
-part not working
+Completly broken, but this is my first project that i make and push to github, so i what to keep it like a lucky coin or so
 
 full functional c++ libriaryfor writing to files and reading from them
 
